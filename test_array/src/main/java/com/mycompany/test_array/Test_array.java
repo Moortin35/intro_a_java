@@ -12,4 +12,4 @@ public class Test_array {
         arreglo[2] = 5;
         arreglo[3] = 7;
     }
-}N
+}
